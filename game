@@ -1,0 +1,13 @@
+{
+  "game": [
+    { "id": 1, "nama": "PUBG", "harga": "Rp.219.999,00", "image": "https://www.extremetech.com/wp-content/uploads/2017/12/PUBG-Feature-640x353.jpg" },
+    { "id": 2, "nama": "Battlefield V", "harga": "Rp.990.000,00", "image": "https://cdn.cdkeys.com/500x706/media/catalog/product/b/a/battlefield-v-pc-get-cheap-cdkeys_5_.jpg" },
+    { "id": 3, "nama": "The Division 2", "harga": "Rp.650.000,00", "image": "https://ubistatic19-a.akamaihd.net/marketingresource/en-gb/the-division/the-division-2/assets/images/tctd2_metaimages_default.jpg" },
+    { "id": 4, "nama": "Apex Legends", "harga": "Free To Play", "image": "https://cdn2.tstatic.net/tribunnews/foto/bank/images/apex-legends.jpg"},
+    { "id": 5, "nama": "Rainbow Six Siege", "harga": "Rp.250.000,00", "image": "https://www.g4less.com/images/product/111_11.jpg" },
+    { "id": 6, "nama": "Resident Evil 2 Remake", "harga": "Rp.630.000,00", "image": "https://cdn.shopify.com/s/files/1/0747/3829/products/mL2751_1024x1024.jpg?v=1545038299" },
+    { "id": 7, "nama": "Mortal Kombat 11", "harga": "Rp.680.000,00", "image": "https://compass-ssl.xbox.com/assets/47/af/47afa971-6fd8-4b9a-8d37-f3f106dafd1d.jpg?n=Mortal-Kombat-11_GLP-Page-Hero-1084_1920x835_02.jpg" },
+    { "id": 8, "nama": "Red Dead Redemption", "harga": "Rp.525.000,00", "https://images-na.ssl-images-amazon.com/images/I/91l%2BXW9jctL._SL1500_.jpg" },
+    { "id": 9, "nama": "God OF War", "harga": "Rp.300.000,00", "image": "https://images-na.ssl-images-amazon.com/images/I/5122wZuQ%2BhL.jpg" }
+]
+}
